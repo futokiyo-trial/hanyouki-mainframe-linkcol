@@ -6,6 +6,8 @@
 
 [パンチカードでプログラミングする方法 / How to program on the punch card - 福野泰介の一日一創](https://fukuno.jig.jp/1760)
 
+[紙テープパンチャーを再生](https://www.youtube.com/watch?v=b72m9wzyTiA)
+
 [Programming with Punched Cards（パンチカード時代のプログラミング）を読む](http://blog.mwsoft.jp/article/75825730.html)
 
 [パンチカード - Schwarzschild Cafe](https://funkygoods.com/schwarzschild/2010_11/2010_11_06.html)
