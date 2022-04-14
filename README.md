@@ -10,6 +10,8 @@
 
 [パンチカード時代のデータ入力風景](https://www.youtube.com/watch?v=sIroxG-iISo)
 
+[パンチカードと織機](https://www.youtube.com/watch?v=2XN9f54p3f0)
+
 [Programming with Punched Cards（パンチカード時代のプログラミング）を読む](http://blog.mwsoft.jp/article/75825730.html)
 
 [パンチカード - Schwarzschild Cafe](https://funkygoods.com/schwarzschild/2010_11/2010_11_06.html)
