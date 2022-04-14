@@ -8,6 +8,8 @@
 
 [紙テープパンチャーを再生](https://www.youtube.com/watch?v=b72m9wzyTiA)
 
+[パンチカード時代のデータ入力風景](https://www.youtube.com/watch?v=sIroxG-iISo)
+
 [Programming with Punched Cards（パンチカード時代のプログラミング）を読む](http://blog.mwsoft.jp/article/75825730.html)
 
 [パンチカード - Schwarzschild Cafe](https://funkygoods.com/schwarzschild/2010_11/2010_11_06.html)
@@ -60,3 +62,6 @@
 [ゾーン10進数、パック10進数](http://kccn.konan-u.ac.jp/information/cs/cyber04/cy4_bmzm.htm)
 
 [ゾーン10進数とパック10進数](https://ameblo.jp/maous/entry-10800059463.html)
+
+[02.S/370における数と文字の表現 - 「メインフレーム・コンピューター」で遊ぼう（旧サイト）](http://www.arteceed.net/710.html)
+
