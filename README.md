@@ -58,6 +58,8 @@
 
 [VTOC:Volume Table Of Contents（ボリューム目録） - 「メインフレーム・コンピューター」で遊ぼう](https://arteceed.info/?p=1218)
 
+[LISTCAT（AMSユーティリティー） - 「メインフレーム・コンピューター」で遊ぼう](https://arteceed.info/?p=662)
+
 
 ## ゾーン10進数、パック10進数
 
