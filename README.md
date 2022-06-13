@@ -69,3 +69,28 @@
 
 [02.S/370における数と文字の表現 - 「メインフレーム・コンピューター」で遊ぼう（旧サイト）](http://www.arteceed.net/710.html)
 
+## Big Endian、Little Endian
+
+[Endian（エンディアン）ってなに？ | 学校では教えてくれないこと | [技術コラム集]組込みの門 | ユークエスト 株式会社 東光高岳](https://uquest.tktk.co.jp/embedded/learning/lecture05.html)
+
+[「ビッグエンディアン」と「リトルエンディアン」の違い｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/diff112endiannes.html)
+
+[ガリバー旅行記に由来する「有名なコンピュータ用語」とは!? | 雑学界の権威・平林純の考える科学](http://hirabayashi.wondernotes.jp/2012/08/26/%E3%82%AC%E3%83%AA%E3%83%90%E3%83%BC%E6%97%85%E8%A1%8C%E8%A8%98%E3%81%AB%E7%94%B1%E6%9D%A5%E3%81%99%E3%82%8B%E3%80%8C%E6%9C%89%E5%90%8D%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/)
+
+## バイナリ・エディタ
+
+[23年前に開発終了したにもかかわらずいまだ「定番」と呼ばれるアプリがあるらしい - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/1390753.html)
+
+[Stirling | Vector](https://www.vector.co.jp/soft/win95/util/se079072.html)
+
+[Binary Editor BZのヘルプ](https://devil-tamachan.github.io/BZDoc/)
+
+[Binary Editor BZ | 窓の杜](https://forest.watch.impress.co.jp/library/software/binaryeditbz/)
+
+[PowerWitch the Royal](http://techsol.arcadiangarden.com/products/windows/pwtr.php)
+
+[FavBinEdit](https://www.wabiapp.com/FavBinEdit/)
+
+[Hex Editor | Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
+
+
