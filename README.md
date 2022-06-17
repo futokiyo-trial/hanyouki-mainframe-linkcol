@@ -93,4 +93,4 @@
 
 [Hex Editor | Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
 
-
+[Java | ビット演算子とシフト演算子 Let'sプログラミング Java入門](https://www.javadrive.jp/start/ope/index8.html)
