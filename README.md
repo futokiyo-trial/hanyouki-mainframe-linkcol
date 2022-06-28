@@ -60,14 +60,32 @@
 
 [LISTCAT（AMSユーティリティー） - 「メインフレーム・コンピューター」で遊ぼう](https://arteceed.info/?p=662)
 
+[JCL入門 - 「メインフレーム・コンピューター」で遊ぼう](https://arteceed.info/?p=173)
 
-## ゾーン10進数、パック10進数
+
+## ゾーン10進数、パック10進数、EBCDIC
 
 [ゾーン10進数、パック10進数](http://kccn.konan-u.ac.jp/information/cs/cyber04/cy4_bmzm.htm)
 
 [ゾーン10進数とパック10進数](https://ameblo.jp/maous/entry-10800059463.html)
 
 [02.S/370における数と文字の表現 - 「メインフレーム・コンピューター」で遊ぼう（旧サイト）](http://www.arteceed.net/710.html)
+
+[Javaでメインフレームの文字コード変換するには 2015/07/14 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1190)
+
+[Javaでメインフレームの文字コード変換するには（その２）2015/09/08 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1210)
+
+[富士通メインフレームの文字コード 2015/06/02 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1182)
+
+[Javaでメインフレームの文字コード変換するには（その２）2015/09/08 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1210)
+
+[富士通メインフレームの文字コード(最終回) 2015/08/27 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1206)
+
+[JavaからAS/400のコマンドを発行するには 2015/11/17 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1230)
+
+[JavaからAS/400 ～ メンバー編 2016/02/23 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1250)
+
+[JavaからAS/400 ～ メンバー編 2016/04/26 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1266)
 
 ## Big Endian、Little Endian
 
