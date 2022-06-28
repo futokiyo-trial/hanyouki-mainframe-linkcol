@@ -87,6 +87,27 @@
 
 [JavaからAS/400 ～ メンバー編 2016/04/26 ｜IT情報メディアサイト idearu（アイディアル）](https://www.idearu.info/article/data/ds1266)
 
+[IBM漢字コードからUTF8やSJISに変換する表を手に入れたい→手に入れた 2019/07/13 | Qiita](https://qiita.com/madilloar/items/12b9e270388c92d0482d)
+
+[IBM漢字＝＞UTF8:Cp930_UTF8.txt](https://github.com/madilloar/pub-pages/blob/master/docs/ibm-kanji/Cp930_UTF8.txt)
+
+[IBM漢字＝＞SJIS(Cp943C) Cp930_Cp943C.txt](https://github.com/madilloar/pub-pages/blob/master/docs/ibm-kanji/Cp930_Cp943C.txt)
+
+[IBM漢字＝＞SJIS(Cp943C):Cp939_Cp943C.txt](https://github.com/madilloar/pub-pages/blob/master/docs/ibm-kanji/Cp939_Cp943C.txt)
+
+[IBM漢字＝＞UTF8:Cp939_UTF8.txt](https://github.com/madilloar/pub-pages/blob/master/docs/ibm-kanji/Cp939_UTF8.txt)
+
+[IBM漢字＝＞UTF8やSJIS対応表のEXCEL](https://github.com/madilloar/pub-pages/blob/master/docs/ibm-kanji/IBM%E6%BC%A2%E5%AD%97-UTF8SJIS%E5%AF%BE%E5%BF%9C%E8%A1%A8.xlsx)
+
+[IBMメインフレームのファイルをJavaで入出力するには？ 2019/07/13 | Qiita ](https://qiita.com/madilloar/items/3dcd0db00f4cb3ac22f6)
+
+[ヘキサ０Ｅ、０Ｆの面倒な問題 2016/11/29 | wtarブログ](http://wtar00.seesaa.net/article/444455375.html)
+
+[コードページ 1390 にある、コードページ 930 より多くの EBCDIC 漢字 (DBCS) 文字コード | IBM Support](https://www.ibm.com/support/pages/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%9A%E3%83%BC%E3%82%B8-1390-%E3%81%AB%E3%81%82%E3%82%8B%E3%80%81%E3%82%B3%E3%83%BC%E3%83%89%E3%83%9A%E3%83%BC%E3%82%B8-930-%E3%82%88%E3%82%8A%E5%A4%9A%E3%81%8F%E3%81%AE-ebcdic-%E6%BC%A2%E5%AD%97-dbcs-%E6%96%87%E5%AD%97%E3%82%B3%E3%83%BC%E3%83%89)
+
+[x-sjis_0213research](https://github.com/WO8TimeSpace175ZERO2/x-sjis_0213research)
+
+
 ## Big Endian、Little Endian
 
 [Endian（エンディアン）ってなに？ | 学校では教えてくれないこと | [技術コラム集]組込みの門 | ユークエスト 株式会社 東光高岳](https://uquest.tktk.co.jp/embedded/learning/lecture05.html)
