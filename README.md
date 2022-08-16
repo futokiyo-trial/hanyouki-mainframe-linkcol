@@ -43,6 +43,7 @@
 
 [1960年代に開発され新時代を創った大型汎用機 IBM System360 8bitを1Byte単位とするアドレス指定方式など、その後の方向性を決めた歴史的マシン](https://twitter.com/Dream_Library_/status/1500460269155332099)
 
+[2の補数とは？ | CMAN Web便利ノート](https://note.cman.jp/convert/2hosu/)
 
 
 ## 「メインフレーム・コンピューター」で遊ぼう
