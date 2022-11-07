@@ -134,3 +134,10 @@
 [Hex Editor | Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
 
 [Java | ビット演算子とシフト演算子 Let'sプログラミング Java入門](https://www.javadrive.jp/start/ope/index8.html)
+
+## COBOL
+
+[「COBOL」一覧 - ITエンジニアの定時退社Tips](https://www.early2home.com/blog/category/programming/cobol)
+
+[COBOL Parser、ちゃんと選んでいますか？ - Qiita @economy  2022年03月31日](https://qiita.com/economy/items/d12895b154cdce326bc2)
+
