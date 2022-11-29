@@ -64,6 +64,10 @@
 [JCL入門 - 「メインフレーム・コンピューター」で遊ぼう](https://arteceed.info/?p=173)
 
 
+[汎用機というのはIBMのSystem/360に由来する言葉で、当時の計算機の主な応用は事務計算と科学技術計算であり、かつそれぞれ「専用機」だったものが、System/360はどちらもできるいう意味での「汎用機」ですね。360度すなわち全方位をカバーするというIBMらしい大げさなネーミングですな - Twitter 徳丸 浩](https://twitter.com/ockeghem/status/1597106423594643463)
+
+[ちなみに、System/360のOSがOS/360で、その開発責任者が、皆さん大好きな「人月の神話」を書いたブルックスJr です - Twitter 徳丸 浩](https://twitter.com/ockeghem/status/1597106426115420160)
+
 ## ゾーン10進数、パック10進数、EBCDIC
 
 [ゾーン10進数、パック10進数](http://kccn.konan-u.ac.jp/information/cs/cyber04/cy4_bmzm.htm)
