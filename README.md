@@ -145,3 +145,17 @@
 
 [COBOL Parser、ちゃんと選んでいますか？ - Qiita @economy  2022年03月31日](https://qiita.com/economy/items/d12895b154cdce326bc2)
 
+## アセンブラ
+
+[【5分で覚えるIT基礎の基礎】だれでも一度はアセンブラを学んでおこう！---目次 -日経XTECH](https://xtech.nikkei.com/it/article/COLUMN/20061215/257090/)
+
+[【5分で覚えるIT基礎の基礎】だれでも一度はアセンブラを学んでおこう！　第1回 2002.12.20 -日経XTECH](https://xtech.nikkei.com/it/members/ITPro/ITBASIC/20021218/1/)
+
+[【5分で覚えるIT基礎の基礎】だれでも一度はアセンブラを学んでおこう！　第2回 2002.12.24 -日経XTECH](https://xtech.nikkei.com/it/members/ITPro/ITBASIC/20021220/1/)
+
+[【5分で覚えるIT基礎の基礎】だれでも一度はアセンブラを学んでおこう！　第3回 2002.12.25 -日経XTECH](https://xtech.nikkei.com/it/members/ITPro/ITBASIC/20021224/1/)
+
+[【5分で覚えるIT基礎の基礎】だれでも一度はアセンブラを学んでおこう！　第4回 2002.12.26 -日経XTECH](https://xtech.nikkei.com/it/members/ITPro/ITBASIC/20021225/1/)
+
+[【5分で覚えるIT基礎の基礎】だれでも一度はアセンブラを学んでおこう！　第5回 2002.12.27 -日経XTECH](https://xtech.nikkei.com/it/members/ITPro/ITBASIC/20021226/1/)
+
