@@ -159,3 +159,15 @@
 
 [【5分で覚えるIT基礎の基礎】だれでも一度はアセンブラを学んでおこう！　第5回 2002.12.27 -日経XTECH](https://xtech.nikkei.com/it/members/ITPro/ITBASIC/20021226/1/)
 
+[アセンブリ言語の入門者が勉強すべきこと7つと参考書6選を紹介！ | ITエンジニア派遣なら夢テクノロジー](https://www.yume-tec.co.jp/column/%E3%81%9D%E3%81%AE%E4%BB%96/3421)
+
+[アセンブラをゼロから作って自作コンパイラをアセンブルするまで(日記) -zenn DQNEO](https://zenn.dev/dqneo/articles/012faee0b220fa)
+
+[【初心者向け】Mac環境でアセンブリの始め方 -渋谷ほととぎす通信](https://shibuya24.info/entry/first_assembly)
+
+[baobao/helloworld.asm](https://gist.github.com/baobao/377b98f97de38fd7e8c97590bc3d6785)
+
+[Mac でアセンブリを書いてみる -Qiita dora-gt](https://qiita.com/dora-gt/items/889a564ebd682fbe4257)
+
+[M1 Mac でAssembly を動かす【働学併進#013】 -note NariKon](https://note.com/narikon/n/n714829b46475)
+
