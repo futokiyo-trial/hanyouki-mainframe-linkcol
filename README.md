@@ -159,6 +159,8 @@
 
 [【5分で覚えるIT基礎の基礎】だれでも一度はアセンブラを学んでおこう！　第5回 2002.12.27 -日経XTECH](https://xtech.nikkei.com/it/members/ITPro/ITBASIC/20021226/1/)
 
+[「レジスタ」を知るとCPUの細かな処理が見えてくる アセンブラで学ぶコンピュータ基礎のキソ　第1回 2007.04.17 -日経XTECH](https://xtech.nikkei.com/it/article/COLUMN/20070404/267385/)
+
 [アセンブリ言語の入門者が勉強すべきこと7つと参考書6選を紹介！ | ITエンジニア派遣なら夢テクノロジー](https://www.yume-tec.co.jp/column/%E3%81%9D%E3%81%AE%E4%BB%96/3421)
 
 [アセンブラをゼロから作って自作コンパイラをアセンブルするまで(日記) -zenn DQNEO](https://zenn.dev/dqneo/articles/012faee0b220fa)
