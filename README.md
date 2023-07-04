@@ -182,3 +182,5 @@
 
 [ＪＦＥ・倉敷　形鋼基幹システム刷新　オープン環境に 2023年7月4日 | 鉄鋼・非鉄金属業界の専門紙「日刊産業新聞」](https://www.japanmetal.com/news-t20230704128073.html)
 
+[ＪＦＥ／倉敷の形鋼基幹システム刷新完了／デジタル技術採り入れやすく 2023/7/4 05:00 | 日刊鉄鋼新聞 Japan Metal Daily](https://www.japanmetaldaily.com/articles/-/130240)
+
