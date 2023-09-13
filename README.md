@@ -68,6 +68,10 @@
 
 [ちなみに、System/360のOSがOS/360で、その開発責任者が、皆さん大好きな「人月の神話」を書いたブルックスJr です - Twitter 徳丸 浩](https://twitter.com/ockeghem/status/1597106426115420160)
 
+[メインフレームのアーキテクチャについて基礎から理解する | Qiita tm-hack 2020年08月26日](https://qiita.com/tm-hack/items/afc801b05e2f8f4e9d18)
+
+[富士通の撤退する「メインフレーム」ってそもそも何？ | Zenn koduki 2022/02/14](https://zenn.dev/koduki/articles/bc0e5acb3d6656)
+
 ## ゾーン10進数、パック10進数、EBCDIC
 
 [ゾーン10進数、パック10進数](http://kccn.konan-u.ac.jp/information/cs/cyber04/cy4_bmzm.htm)
